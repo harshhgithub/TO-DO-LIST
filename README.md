@@ -2,7 +2,7 @@
 A TO-DO List app buit using HTML,CSS and JavaScript with add, remove and completed Tasks feature.
 
 
-🔹Live-Demo: https://harshhgithub.github.io/TO-DO-LIST/
+🔹Live Site URL: https://harshhgithub.github.io/TO-DO-LIST/
 
 ## Screenshots 
  🔸 Add Your Tasks.
